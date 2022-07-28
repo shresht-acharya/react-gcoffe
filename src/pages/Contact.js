@@ -15,7 +15,7 @@ function Contact() {
         <h1> Contact Us</h1>
 
         <form id="contact-form" method="POST">
-          <label htmlFor="name">Full Name</label>
+          <label htmlFor="name">Name</label>
           <input name="name" placeholder="Enter your Name..." type="text" />
           <label htmlFor="email">Email</label>
           <input name="email" placeholder="Enter your Email Id..." type="email" />
