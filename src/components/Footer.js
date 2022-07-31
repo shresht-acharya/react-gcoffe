@@ -7,7 +7,7 @@ import "../styles/Footer.css";
 
 function Footer() {
   return (
-    <div className="footer">
+    <div className="footer" >
       <div className="socialMedia">
         <a href="https://www.instagram.com/starbucks/?hl=en" target="_blank">
           {<InstagramIcon />} 

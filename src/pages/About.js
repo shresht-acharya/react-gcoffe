@@ -14,19 +14,8 @@ function About() {
         <h1> ABOUT US</h1>
         <br/><br/>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
+        Our story begins in 1971 along the cobblestone streets of Seattle’s historic Pike Place Market. It was here where Starbucks opened its first store, offering fresh-roasted coffee beans, tea and spices from around the world for our customers to take home. Our name was inspired by the classic tale, “Moby-Dick,” evoking the seafaring tradition of the early coffee traders. Ten years later, a young New Yorker named Howard Schultz would walk through these doors and become captivated with Starbucks coffee from his first sip. After joining the company in 1982, a different cobblestone road would lead him to another discovery. It was on a trip to Milan in 1983 that Howard first experienced Italy’s coffeehouses, and he returned to Seattle inspired to bring the warmth and artistry of its coffee culture to Starbucks. By 1987, we swapped our brown aprons for green ones and embarked on our next chapter as a coffeehouse.
+        It takes many hands to craft the perfect cup of coffee – from the farmers who tend to the red-ripe coffee cherries, to the master roasters who coax the best from every bean, and to the barista who serves it with care. 
         </p>
       </div>
     </div>

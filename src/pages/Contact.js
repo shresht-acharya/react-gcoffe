@@ -1,5 +1,5 @@
 import React from "react";
-import Couch from "../assets/cp.jpg";
+import Couch from "../assets/contact.jpg";
 import "../styles/Contact.css";
 
 function Contact() {
