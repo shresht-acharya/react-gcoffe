@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-gcoffe/static/css/main.71307f1a.css",
-    "main.js": "/react-gcoffe/static/js/main.5e92d568.js",
+    "main.js": "/react-gcoffe/static/js/main.0b6702ec.js",
     "static/js/787.6a9b5baf.chunk.js": "/react-gcoffe/static/js/787.6a9b5baf.chunk.js",
     "static/media/contact.jpg": "/react-gcoffe/static/media/contact.8b5677720a92246ebf53.jpg",
     "static/media/coffeemm.jpg": "/react-gcoffe/static/media/coffeemm.0a2677d075137f8bff3b.jpg",
@@ -17,11 +17,11 @@
     "static/media/cafe.png": "/react-gcoffe/static/media/cafe.0ebf1b85ae52020a3ee6.png",
     "index.html": "/react-gcoffe/index.html",
     "main.71307f1a.css.map": "/react-gcoffe/static/css/main.71307f1a.css.map",
-    "main.5e92d568.js.map": "/react-gcoffe/static/js/main.5e92d568.js.map",
+    "main.0b6702ec.js.map": "/react-gcoffe/static/js/main.0b6702ec.js.map",
     "787.6a9b5baf.chunk.js.map": "/react-gcoffe/static/js/787.6a9b5baf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71307f1a.css",
-    "static/js/main.5e92d568.js"
+    "static/js/main.0b6702ec.js"
   ]
 }
