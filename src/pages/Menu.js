@@ -41,7 +41,7 @@ function Menu() {
                       <Card style={{ width: "10rem", height:'32rem' }}>
                           <Card.Img
                             variant="top"
-                            style={{ maxHeight: "250px",width:'auto' }}
+                            style={{height:'300px', maxHeight: "250px",width:'auto' }}
                             src={item?.image}
                           />
                           <Card.Body>
